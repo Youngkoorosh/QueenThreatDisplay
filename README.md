@@ -7,7 +7,7 @@
 
 ## 🚀 Overview
 
-Welcome to **`QueenThreatDisplay`**! This simple yet effective Python script visualizes the threat range of a Queen on an empty $8 \times 8$ chessboard. When you input the Queen's position (e.g., `d4`), it will display the board, marking all squares threatened horizontally, vertically, and diagonally with an asterisk (`*`), while clearly showing the Queen's position (`Q`).
+Welcome to **`QueenThreatDisplay`**! This simple yet effective Python script visualizes the threat range of a Queen on an empty $8 \times 8$ chessboard. When you input the Queen's position (e.g., `d4`), it will display the board, marking all squares threatened horizontally, vertically, and diagonally with an asterisk (`X`), while clearly showing the Queen's position (`Q`).
 
 This project serves as a personal learning endeavor, allowing me to dive deeper into fundamental Python concepts and chess logic:
 
